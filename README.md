@@ -10,7 +10,7 @@ This is a simple Stop watch Timer application built using HTML, CSS and JavaScri
 
 ### **How to Use:**
 
-1. Clone the repository: git clone https://github.com/JanardhanEJ/Jana-Stop-watch-timer-project.git
+1. Clone the repository: git clone https://github.com/JanardhanEJ/janardhanej1906-stop-timer-watch-project.git
 2. Open home.html in your web browser. Use Start/Stop/Reset button according to the user requirements.
 
 ### **Screenshots**
@@ -24,4 +24,4 @@ This is a simple Stop watch Timer application built using HTML, CSS and JavaScri
 
 ### **Live Demo**
 
-Link: https://janardhanej.github.io/Jana-Stop-watch-timer-project/
+Link: https://janardhanej.github.io/janardhanej1906-stop-timer-watch-project/
