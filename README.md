@@ -24,4 +24,4 @@ This is a simple Stop watch Timer application built using HTML, CSS and JavaScri
 
 ### **Live Demo**
 
-Link: https://janardhanej.github.io/janardhanej1906-stop-timer-watch-project/
+Link: https://janardhanej.github.io/janardhanej1906-stop-watch-timer-project/
